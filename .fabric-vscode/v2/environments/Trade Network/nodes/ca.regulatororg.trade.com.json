@@ -1,0 +1,1 @@
+{"name":"ca.regulatororg.trade.com","ca_name":"ca.regulatororg.trade.com","api_url":"https://localhost:10054","type":"fabric-ca","enroll_id":"admin","enroll_secret":"adminpw","hidden":false,"wallet":"Regulator Wallet","identity":"regulator_ca"}

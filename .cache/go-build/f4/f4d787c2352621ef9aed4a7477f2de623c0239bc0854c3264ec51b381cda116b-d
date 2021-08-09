@@ -1,0 +1,4 @@
+./configuration.go
+./proposal.go
+./proposal_response.go
+./transaction.go

@@ -1,0 +1,4 @@
+./autostart_default.go
+./autostart_posix.go
+./binder.go
+./lsprpc.go

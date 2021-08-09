@@ -1,0 +1,1 @@
+{"name":"ca.carrierorg.trade.com","ca_name":"ca.carrierorg.trade.com","api_url":"https://localhost:9054","type":"fabric-ca","enroll_id":"admin","enroll_secret":"adminpw","hidden":false,"wallet":"Carrier Wallet","identity":"carrier_ca"}

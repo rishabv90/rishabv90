@@ -1,0 +1,1 @@
+{"name":"ca.importerorg.trade.com","ca_name":"ca.importerorg.trade.com","api_url":"https://localhost:8054","type":"fabric-ca","enroll_id":"admin","enroll_secret":"adminpw","hidden":false,"wallet":"Importer Wallet","identity":"importer_ca"}

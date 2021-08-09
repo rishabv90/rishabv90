@@ -1,0 +1,1 @@
+{"name":"ca.exporterorg.trade.com","ca_name":"ca.exporterorg.trade.com","api_url":"https://localhost:7054","type":"fabric-ca","enroll_id":"admin","enroll_secret":"adminpw","hidden":false,"wallet":"Exporter Wallet","identity":"exporter_ca"}

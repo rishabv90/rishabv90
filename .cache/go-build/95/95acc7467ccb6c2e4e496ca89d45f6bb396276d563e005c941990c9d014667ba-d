@@ -1,0 +1,4 @@
+./factory.go
+./nopkcs11.go
+./opts.go
+./swfactory.go
